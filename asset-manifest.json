@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firebasewebapp/static/css/main.01db6411.css",
+    "main.js": "/firebasewebapp/static/js/main.1cf66b47.js",
+    "static/js/787.120739f8.chunk.js": "/firebasewebapp/static/js/787.120739f8.chunk.js",
+    "static/media/tempimg.png": "/firebasewebapp/static/media/tempimg.23775b9abdaba30d4c03.png",
+    "index.html": "/firebasewebapp/index.html",
+    "main.01db6411.css.map": "/firebasewebapp/static/css/main.01db6411.css.map",
+    "main.1cf66b47.js.map": "/firebasewebapp/static/js/main.1cf66b47.js.map",
+    "787.120739f8.chunk.js.map": "/firebasewebapp/static/js/787.120739f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01db6411.css",
+    "static/js/main.1cf66b47.js"
+  ]
+}
