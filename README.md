@@ -1,4 +1,4 @@
-![Block Diagram](Diagrams/Block Diagram.png)
+![Block Diagram](./Diagrams/Block Diagram.png)
 
 # Getting Started with Create React App
 
