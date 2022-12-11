@@ -1,5 +1,10 @@
 ![Block Diagram](https://raw.githubusercontent.com/mackvv/firebasewebapp/main/Diagrams/Block%20Diagram.png)
 
+<p align="center">
+  <img src="[your_relative_path_here](https://raw.githubusercontent.com/mackvv/firebasewebapp/main/Diagrams/Block%20Diagram.png)" width="350" title="Block Diagram"  alt="Block Diagram">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
