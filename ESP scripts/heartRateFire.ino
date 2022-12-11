@@ -25,17 +25,17 @@ const byte SAMPLES_PER_SERIAL_SAMPLE = 10;
 PulseSensorPlayground pulseSensor;
 
 //network credentials
-const char* ssid = "MACKENZIE1";
-const char* password = "2%wR0050";
+const char* ssid = "";
+const char* password = "";
 // Firebase project API Key
-#define API_KEY "AIzaSyCE8U2T95yFQklC0jXmHqsmQsWfZouMGTI"
+#define API_KEY ""
 
 // Insert Authorized Email and Corresponding Password 
-#define USER_EMAIL "xinf100010@gmail.com"
-#define USER_PASSWORD "miniTHOMAS!1"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // RTDB URLefine the RTDB URL
-#define DATABASE_URL "finalproject-36266-default-rtdb.firebaseio.com/"
+#define DATABASE_URL ""
 FirebaseData fbdo;
 FirebaseAuth auth;
 FirebaseConfig config;
