@@ -16,13 +16,7 @@ import hrImg from './img/hrimg.png';
 
 //firebase setup 
 const firebaseConfig = {
-  apiKey: "AIzaSyCE8U2T95yFQklC0jXmHqsmQsWfZouMGTI",
-  authDomain: "finalproject-36266.firebaseapp.com",
-  databaseURL: "https://finalproject-36266-default-rtdb.firebaseio.com",
-  projectId: "finalproject-36266",
-  storageBucket: "finalproject-36266.appspot.com",
-  messagingSenderId: "939801589556",
-  appId: "1:939801589556:web:3e8ae10d99a548e56a1761"
+
 };
 
 //connect to firebase realtime database 
