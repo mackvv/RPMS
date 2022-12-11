@@ -1,4 +1,4 @@
-![Block Diagram](./Diagrams/Block Diagram.png)
+![Block Diagram](https://raw.githubusercontent.com/mackvv/firebasewebapp/main/Diagrams/Block%20Diagram.png)
 
 # Getting Started with Create React App
 
