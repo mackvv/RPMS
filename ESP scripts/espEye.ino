@@ -12,8 +12,8 @@
 #define PART_BOUNDARY "123456789000000000000987654321"
 
 //network credentials
-const char* ssid = "MACKENZIE1";
-const char* password = "2%wR0050";
+const char* ssid = "";
+const char* password = "";
 
 //esp camera model that is used
 #define CAMERA_MODEL_ESP_EYE
