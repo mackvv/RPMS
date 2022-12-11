@@ -12,15 +12,15 @@
 // Provide the RTDB payload printing info and other helper functions.
 #include "addons/RTDBHelper.h"
 // network credentials
-const char* ssid = "MACKENZIE1";
-const char* password = "2%wR0050";
+const char* ssid = "";
+const char* password = "";
 //Firebase project API Key
-#define API_KEY "AIzaSyCE8U2T95yFQklC0jXmHqsmQsWfZouMGTI"
+#define API_KEY ""
 //Authorized Email and Corresponding Password
-#define USER_EMAIL "xinf100010@gmail.com"
-#define USER_PASSWORD "miniTHOMAS!1"
+#define USER_EMAIL "
+#define USER_PASSWORD ""
 // Insert RTDB URLefine the RTDB URL
-#define DATABASE_URL "finalproject-36266-default-rtdb.firebaseio.com/"
+#define DATABASE_URL ""
 #define DHTPIN 5     // Digital pin connected to the DHT sensor
 #define DHTTYPE    DHT22     // DHT 22 (AM2302)
 DHT dht(DHTPIN, DHTTYPE);
