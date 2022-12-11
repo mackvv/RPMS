@@ -27,7 +27,7 @@ const db = getDatabase();
 
 function App() {
     //get the database section where data is stored from the user (esps) that are uploading data
-    const dbRef = ref(db, 'UsersData/eacN42h5UVVCQamxQoTXUjGV9P53');
+    const dbRef = ref(db, '');
     //hold values for output 
     const [temp, setTemp] = useState("");
     const [humid, setHumid] = useState("");
